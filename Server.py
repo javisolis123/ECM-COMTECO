@@ -104,8 +104,8 @@ metadata.create_all(engine)
 #Tamaño maximo de la cabecer del paquete
 HEADER_LENGTH = 10
 #Direccion IP del servidor y puerto
-IP = "10.0.0.20"
-PORT = 1234
+IP = "192.168.10.20"
+PORT = 1235
 
 # Create a socket
 # socket.AF_INET - address family, IPv4, some otehr possible are AF_INET6, AF_BLUETOOTH, AF_UNIX
